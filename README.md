@@ -14,7 +14,7 @@ Sou desenvolvedor focado no ecossistema JavaScript e gosto de resolver problemas
 
 **No trabalho:** Divido meu foco entre desenvolver novas *features* e dar manutenção em aplicações de vendas. Meu dia a dia envolve desde integrar APIs externas até caçar bugs na operação real.
 
-**Projeto em Destaque — [Couch Club](https://github.com/Kvothezz/couch-club-api)**
+**Projeto em Destaque — [Couch Club](https://github.com/Kvothezz/couch-club-api)** <br/>
 Meu TCC da faculdade, que sigo mantendo e evoluindo. Um sistema que gerencia os perfis e listas de filmes dos usuários, aplicando um algoritmo de match para cruzar os dados e resolver o clássico dilema: "o que vamos assistir hoje?
 
 - **Back-end:** Monólito modular em **NestJS**, com algoritmo de match entre usuários, banco relacional via PostgreSQL/Prisma e documentação via Swagger.
